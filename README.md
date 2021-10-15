@@ -22,6 +22,6 @@ env\Scripts\activate
 source env/bin/activate
 _______________________________________________________
 **SuperUser**
-id:         admin
-email:      admin@gmail.com
+id:         admin,
+email:      admin@gmail.com,
 password:   admin
