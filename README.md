@@ -10,7 +10,7 @@ npm start
 **DEV Mode Update to http://localhost:8000/**
 npm run build
 _______________________________________________________
-**Edit Model**
+**Update Model**
 python manage.py makemigrations api
 python manage.py migrate
 _______________________________________________________
