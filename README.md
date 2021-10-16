@@ -1,7 +1,7 @@
 git clone: https://github.com/Kaewkamphon62/Selected-Topic-Project.git
 62114440046 แก้วกัมพล สื่อศิริธำรงค์
 
-# react + django
+# React + Django
 
 # Create a virtual environment, สร้าง env
 * python -m venv env
