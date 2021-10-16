@@ -23,7 +23,6 @@ git clone: https://github.com/Kaewkamphon62/Selected-Topic-Project.git
 * python manage.py makemigrations api
 * python manage.py migrate
 
-
 # SuperUser
 * id:         admin,
 * email:      admin@gmail.com,
